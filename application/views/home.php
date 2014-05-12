@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Music Matching Application</title>
+    <title>ZAYE - Online Market Place</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <?php include("include_stylesheet.php"); ?>
@@ -42,7 +42,7 @@
 			
   			<div class="col-md-2">
   				<nav class="login">
-			    	<a class="" href="#" >Username</a>
+			    	<a class="" href="#" >Username <span class="glyphicon glyphicon-chevron-down"></span></a>
 			    </nav>
   			</div>
   		</div>
