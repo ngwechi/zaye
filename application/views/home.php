@@ -55,9 +55,13 @@
   	
   	<div class="container" style="margin-top: 20px;background-color:#ffffff;height:800px;border:1px solid #cccccc;">
   		
-  		<div class="row">
-  			<div class="col-md-12" style="border-bottom:1px solid #cccccc;height:40px">
+  		<div class="row" style="border-bottom:1px solid #cccccc;height:42px">
+  			<div class="col-md-12">
+  				<div class="col-md-3 search">
+	  				<input type="text" class="form-control input-sm" placeholder="search what you want">
+	  			</div>
   			</div>
+  			
   		</div>
   		
   		
